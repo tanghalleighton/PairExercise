@@ -1,0 +1,36 @@
+body {
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  h1, #designed-by {
+    text-align: center;  }
+  
+  .style1 {
+    background-color: #9B9A9A;
+  }
+  
+  .style2 {
+    background-color: #9B9A9A;
+  }
+  
+  .style3 {
+    background-color: #9B9A9A;
+  }
+  
+  .style4 {
+    background-color: #9B9A9A;
+  }
+  
+  .style5 {
+    background-color: #9B9A9A;
+  }
+  
+  .style6 {
+    background-color: #9B9A9A;
+  }
+  
+  /* SETTING THE COLOR OF THE BOX TEXT */
+  .tiles .box-wrapper > a {
+    color: white;
+  }
