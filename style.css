@@ -6,6 +6,7 @@ body {
   
   h1, #designed-by {
     /* your styles here */
+    text-align: center;
   }
   
   .style1 {
