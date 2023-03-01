@@ -1,39 +1,36 @@
 body {
-    /* your styles here */
-    color: navy;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  }
-  
-  h1, #designed-by {
-    /* your styles here */
-    text-align: center;
-  }
-  
-  .style1 {
-    background-color: #9B9A9A;
-  }
-  
-  .style2 {
-    background-color: #9B9A9A;
-  }
-  
-  .style3 {
-    background-color: #9B9A9A;
-  }
-  
-  .style4 {
-    background-color: #9B9A9A;
-  }
-  
-  .style5 {
-    background-color: #9B9A9A;
-  }
-  
-  .style6 {
-    background-color: #9B9A9A;
-  }
-  
-  /* SETTING THE COLOR OF THE BOX TEXT */
-  .tiles .box-wrapper > a {
-    color: white;
-  }
+  color: green;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, #designed-by {
+  text-align: center;  }
+
+.style1 {
+  background-color: #7B3E19;
+}
+
+.style2 {
+  background-color: #B28B84;
+}
+
+.style3 {
+  background-color: #F5E5FC;
+}
+
+.style4 {
+  background-color: #C0E3FC;
+}
+
+.style5 {
+  background-color: #8AE1FC;
+}
+
+.style6 {
+  background-color: #48B8D0;
+}
+
+/* SETTING THE COLOR OF THE BOX TEXT */
+.tiles .box-wrapper > a {
+  color: white;
+}
